@@ -72,6 +72,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/giri5hsharma/giri5hsharma/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/giri5hsharma/giri5hsharma/output/snake.svg" alt="Snake animation" />-->
 
 ###
