@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-labelledby="title">
+<title id="title">Girish Sharma — embedded AI and robotics. A neon circuit board routes signals into a pixel beetle.</title>
+<defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#314056"/></pattern></defs>
+<style>.signal{stroke-dasharray:7 90;animation:flow 6s linear infinite}@keyframes flow{to{stroke-dashoffset:-194}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+<rect width="1080" height="300" fill="#0a101c"/><rect width="1080" height="300" fill="url(#grid)"/>
+<path d="M0 9H388l10 -9H0Z" fill="#5dffe3"/><path d="M1080 291H960l-10 9h130Z" fill="#ff4990"/>
+<g font-family="monospace" fill="#6affdd"><text x="44" y="59" font-size="17" letter-spacing="3">@GIRI5HSHARMA</text></g>
+<g font-family="Arial, sans-serif" font-weight="900" font-size="88" letter-spacing="-5"><text x="41" y="155" fill="#ab2266">Girish Sharma</text><text x="38" y="152" fill="#effffb">Girish Sharma</text></g>
+<text x="44" y="205" font-family="monospace" font-size="22" fill="#aadace">Embedded AI / Robotics</text>
+<path d="M45 248h380l16 -16h99" fill="none" stroke="#2d655e"/><circle cx="540" cy="232" r="4" fill="#6affdd"/>
+<path d="M673 67h34l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 67h34l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="67" r="3" fill="#ff5493"/>
+<path d="M1028 67h-34l-23 23H899" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M1028 67h-34l-23 23H899" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="1028" cy="67" r="3" fill="#ff5493"/>
+<path d="M673 93h39l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 93h39l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="93" r="3" fill="#ff5493"/>
+<path d="M1028 93h-39l-23 23H899" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M1028 93h-39l-23 23H899" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="1028" cy="93" r="3" fill="#ff5493"/>
+<path d="M673 119h44l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 119h44l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="119" r="3" fill="#ff5493"/>
+<path d="M1028 119h-44l-23 23H899" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M1028 119h-44l-23 23H899" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="1028" cy="119" r="3" fill="#ff5493"/>
+<path d="M673 145h49l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 145h49l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="145" r="3" fill="#ff5493"/>
+<path d="M1028 145h-49l-23 23H899" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M1028 145h-49l-23 23H899" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="1028" cy="145" r="3" fill="#ff5493"/>
+<path d="M673 171h54l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 171h54l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="171" r="3" fill="#ff5493"/>
+<path d="M1028 171h-54l-23 23H899" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M1028 171h-54l-23 23H899" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="1028" cy="171" r="3" fill="#ff5493"/>
+<path d="M673 197h59l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 197h59l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="197" r="3" fill="#ff5493"/>
+<path d="M1028 197h-59l-23 23H899" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M1028 197h-59l-23 23H899" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="1028" cy="197" r="3" fill="#ff5493"/>
+<rect x="816" y="86" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="86" width="10" height="10" fill="#61ffe0"/>
+<rect x="826" y="96" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="96" width="10" height="10" fill="#61ffe0"/>
+<rect x="836" y="106" width="10" height="10" fill="#61ffe0"/>
+<rect x="846" y="106" width="10" height="10" fill="#61ffe0"/>
+<rect x="856" y="106" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="116" width="10" height="10" fill="#61ffe0"/>
+<rect x="826" y="116" width="10" height="10" fill="#61ffe0"/>
+<rect x="836" y="116" width="10" height="10" fill="#61ffe0"/>
+<rect x="846" y="116" width="10" height="10" fill="#61ffe0"/>
+<rect x="856" y="116" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="116" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="116" width="10" height="10" fill="#61ffe0"/>
+<rect x="786" y="126" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="126" width="10" height="10" fill="#fb5493"/>
+<rect x="826" y="126" width="10" height="10" fill="#fb5493"/>
+<rect x="836" y="126" width="10" height="10" fill="#fb5493"/>
+<rect x="856" y="126" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="126" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="126" width="10" height="10" fill="#61ffe0"/>
+<rect x="906" y="126" width="10" height="10" fill="#61ffe0"/>
+<rect x="796" y="136" width="10" height="10" fill="#61ffe0"/>
+<rect x="806" y="136" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="136" width="10" height="10" fill="#fb5493"/>
+<rect x="826" y="136" width="10" height="10" fill="#fb5493"/>
+<rect x="846" y="136" width="10" height="10" fill="#61ffe0"/>
+<rect x="856" y="136" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="136" width="10" height="10" fill="#61ffe0"/>
+<rect x="886" y="136" width="10" height="10" fill="#61ffe0"/>
+<rect x="896" y="136" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="146" width="10" height="10" fill="#fb5493"/>
+<rect x="826" y="146" width="10" height="10" fill="#fb5493"/>
+<rect x="836" y="146" width="10" height="10" fill="#fb5493"/>
+<rect x="856" y="146" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="146" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="146" width="10" height="10" fill="#61ffe0"/>
+<rect x="796" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="806" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="156" width="10" height="10" fill="#fb5493"/>
+<rect x="826" y="156" width="10" height="10" fill="#fb5493"/>
+<rect x="846" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="856" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="886" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="896" y="156" width="10" height="10" fill="#61ffe0"/>
+<rect x="786" y="166" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="166" width="10" height="10" fill="#fb5493"/>
+<rect x="826" y="166" width="10" height="10" fill="#fb5493"/>
+<rect x="836" y="166" width="10" height="10" fill="#fb5493"/>
+<rect x="856" y="166" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="166" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="166" width="10" height="10" fill="#61ffe0"/>
+<rect x="906" y="166" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="176" width="10" height="10" fill="#fb5493"/>
+<rect x="826" y="176" width="10" height="10" fill="#fb5493"/>
+<rect x="836" y="176" width="10" height="10" fill="#fb5493"/>
+<rect x="856" y="176" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="176" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="176" width="10" height="10" fill="#61ffe0"/>
+<rect x="806" y="186" width="10" height="10" fill="#61ffe0"/>
+<rect x="816" y="186" width="10" height="10" fill="#fb5493"/>
+<rect x="826" y="186" width="10" height="10" fill="#fb5493"/>
+<rect x="836" y="186" width="10" height="10" fill="#fb5493"/>
+<rect x="856" y="186" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="186" width="10" height="10" fill="#61ffe0"/>
+<rect x="876" y="186" width="10" height="10" fill="#61ffe0"/>
+<rect x="886" y="186" width="10" height="10" fill="#61ffe0"/>
+<rect x="796" y="196" width="10" height="10" fill="#61ffe0"/>
+<rect x="826" y="196" width="10" height="10" fill="#61ffe0"/>
+<rect x="836" y="196" width="10" height="10" fill="#61ffe0"/>
+<rect x="846" y="196" width="10" height="10" fill="#61ffe0"/>
+<rect x="856" y="196" width="10" height="10" fill="#61ffe0"/>
+<rect x="866" y="196" width="10" height="10" fill="#61ffe0"/>
+<rect x="896" y="196" width="10" height="10" fill="#61ffe0"/>
+<rect x="786" y="206" width="10" height="10" fill="#61ffe0"/>
+<rect x="836" y="206" width="10" height="10" fill="#61ffe0"/>
+<rect x="846" y="206" width="10" height="10" fill="#61ffe0"/>
+<rect x="856" y="206" width="10" height="10" fill="#61ffe0"/>
+<rect x="906" y="206" width="10" height="10" fill="#61ffe0"/>
+<text x="851" y="258" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="2" fill="#aadace">ESP32 / PEST DETECTION</text></svg>
