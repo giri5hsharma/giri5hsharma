@@ -1,16 +1,16 @@
 <img src="./signals/profile.svg" width="100%" alt="Girish Sharma · Backend software + robotics"/>
 
-I study Robotics & Automation at Symbiosis Institute of Technology. I like working on systems where I can follow one thing all the way through: a submission from a student’s editor to a grade, or a camera detection to a pan-and-tilt command.
+<img src="./signals/bio.svg" width="100%" alt="I study Robotics &amp; Automation at Symbiosis Institute of Technology. I like working on systems where I can follow one thing all the way through: a submission from a student’s editor to a grade, or a camera detection to a pan-and-tilt command."/>
 
-## Internships
+<h2><img src="./signals/internships-heading.svg" width="100%" alt="Internships"/></h2>
 
 <img src="./signals/main.svg" width="100%" alt="Main quest · Samant Solutions · Backend Engineer Intern · June 2026–present, remote. FastAPI services for 20+ clients, async request handlers, schema design, and API handoffs."/>
 
 <img src="./signals/gig.svg" width="100%" alt="Gig · STROTA ConsulTech · Intern · November 2026–present. AI workflow automation for small businesses and startups, integration testing, deployment, and maintenance."/>
 
-## Side quests
+<h2><img src="./signals/quests-heading.svg" width="100%" alt="Side quests"/></h2>
 
-### Software
+<h3><img src="./signals/software-heading.svg" width="100%" alt="Software"/></h3>
 
 <a href="https://github.com/giri5hsharma/Codemia"><img width="49%" src="./signals/codemia.svg" alt="Codemia — Five languages. One grading queue."/></a> <a href="https://github.com/giri5hsharma/Cloud-Hospital-Monitoring"><img width="49%" src="./signals/rooms.svg" alt="Hospital room monitor — A stale feed gets its own alert."/></a>
 
@@ -26,7 +26,7 @@ I study Robotics & Automation at Symbiosis Institute of Technology. I like worki
 
 </details>
 
-### Robotics & embedded systems
+<h3><img src="./signals/robotics-heading.svg" width="100%" alt="Robotics &amp; embedded systems"/></h3>
 
 <a href="https://github.com/giri5hsharma/AI-Driven_Dynamic_Target_Tracking_and_Gimbal_Stabilization"><img width="49%" src="./signals/gimbal.svg" alt="Gimbal simulator — Keep tracking through a missed frame."/></a> <a href="https://github.com/giri5hsharma/Pest-detection-using-ESP-32S"><img width="49%" src="./signals/pest.svg" alt="ESP32 pest detection — Fit a pest classifier into a C header."/></a>
 
@@ -38,7 +38,7 @@ I study Robotics & Automation at Symbiosis Institute of Technology. I like worki
 
 </details>
 
-## GitHub activity
+<h2><img src="./signals/github-heading.svg" width="100%" alt="GitHub activity"/></h2>
 
 <img src="./signals/activity.svg" width="100%" alt="26 original public repositories. Primary languages by repository count: C++ 5, Python 5, JavaScript 4."/>
 
