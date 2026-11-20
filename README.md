@@ -10,7 +10,7 @@
 
 <h2><img src="./signals/quests-heading.svg" width="100%" alt="Side quests"/></h2>
 
-<h3><img src="./signals/software-heading.svg" width="100%" alt="Software"/></h3>
+<h3><img src="./signals/software-heading.svg" width="156" alt="Software"/></h3>
 
 <a href="https://github.com/giri5hsharma/Codemia"><img width="49%" src="./signals/codemia.svg" alt="Codemia — Five languages. One grading queue."/></a> <a href="https://github.com/giri5hsharma/Cloud-Hospital-Monitoring"><img width="49%" src="./signals/rooms.svg" alt="Hospital room monitor — A stale feed gets its own alert."/></a>
 
@@ -26,7 +26,7 @@
 
 </details>
 
-<h3><img src="./signals/robotics-heading.svg" width="100%" alt="Robotics &amp; embedded systems"/></h3>
+<h3><img src="./signals/robotics-heading.svg" width="320" alt="Robotics &amp; embedded systems"/></h3>
 
 <a href="https://github.com/giri5hsharma/AI-Driven_Dynamic_Target_Tracking_and_Gimbal_Stabilization"><img width="49%" src="./signals/gimbal.svg" alt="Gimbal simulator — Keep tracking through a missed frame."/></a> <a href="https://github.com/giri5hsharma/Pest-detection-using-ESP-32S"><img width="49%" src="./signals/pest.svg" alt="ESP32 pest detection — Fit a pest classifier into a C header."/></a>
 
