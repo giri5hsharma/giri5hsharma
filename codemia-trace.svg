@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="142" viewBox="0 0 900 142" role="img" aria-labelledby="title">
+<title id="title">Codemia grading pipeline. A submission moves through the Express API, Redis and Bull queue, and Piston runner before feedback reaches the dashboard.</title>
+<style>
+.packet{animation:travel 8s linear infinite}
+@keyframes travel{0%,10%{transform:translateX(0)}30%,39%{transform:translateX(248px)}59%,68%{transform:translateX(480px)}88%,100%{transform:translateX(694px)}}
+@media(prefers-reduced-motion:reduce){.packet{animation:none}}
+</style>
+<rect width="900" height="142" rx="8" fill="#0a101c"/>
+<text x="28" y="33" font-family="monospace" font-size="16" fill="#ff73a4" letter-spacing="2">CODEMIA / SUBMISSION TRACE</text>
+<path d="M90 73H784" stroke="#386779" stroke-width="3"/>
+<g fill="#0a101c" stroke="#5fffe0" stroke-width="3">
+<rect x="83" y="66" width="14" height="14" rx="2"/>
+<rect x="331" y="66" width="14" height="14" rx="2"/>
+<rect x="563" y="66" width="14" height="14" rx="2"/>
+<rect x="777" y="66" width="14" height="14" rx="2"/>
+</g><g class="packet"><circle cx="90" cy="73" r="14" fill="#ff5493" opacity=".22"/><circle cx="90" cy="73" r="6" fill="#ff81ab"/></g><g text-anchor="middle" fill="#d4f7f4" font-family="monospace" font-size="21"><text x="90" y="114">Express API</text><text x="338" y="114">Redis / Bull</text><text x="570" y="114">Piston</text><text x="784" y="114">Dashboard</text></g></svg>

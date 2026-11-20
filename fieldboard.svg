@@ -1,13 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-labelledby="title">
 <title id="title">Girish Sharma — software and robotics. A terminal prompt sits inside a neon processor.</title>
-<defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#314056"/></pattern></defs>
-<style>.signal{stroke-dasharray:7 90;animation:flow 6s linear infinite}@keyframes flow{to{stroke-dashoffset:-194}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+<defs><pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#314056"/></pattern><clipPath id="typing"><rect class="reveal" x="76" y="230" width="493" height="44"/></clipPath></defs>
+<style>.signal{stroke-dasharray:7 90;animation:flow 6s linear infinite}@keyframes flow{to{stroke-dashoffset:-194}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}
+.reveal{animation:type 6s steps(27,end) infinite}
+.line{opacity:0;animation:cycle 18s step-end infinite}
+.second{animation-delay:6s}.third{animation-delay:12s}
+@keyframes type{0%{width:0}55%,94%{width:493px}100%{width:0}}
+@keyframes cycle{0%{opacity:1}33.333%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.signal,.reveal,.line{animation:none}.first{opacity:1}}
+</style>
 <rect width="1080" height="300" fill="#0a101c"/><rect width="1080" height="300" fill="url(#grid)"/>
 <path d="M0 9H388l10 -9H0Z" fill="#5dffe3"/><path d="M1080 291H960l-10 9h130Z" fill="#ff4990"/>
 <g font-family="monospace" fill="#6affdd"><text x="44" y="59" font-size="17" letter-spacing="3">@GIRI5HSHARMA</text></g>
 <g font-family="Arial, sans-serif" font-weight="900" font-size="88" letter-spacing="-5"><text x="41" y="155" fill="#ab2266">Girish Sharma</text><text x="38" y="152" fill="#effffb">Girish Sharma</text></g>
 <text x="44" y="205" font-family="monospace" font-size="22" fill="#aadace">Software + Robotics</text>
-<path d="M45 248h380l16 -16h99" fill="none" stroke="#2d655e"/><circle cx="540" cy="232" r="4" fill="#6affdd"/>
+<g font-family="monospace" font-size="22"><text x="44" y="258" fill="#ff5493">&gt;</text><g clip-path="url(#typing)" fill="#6affdd"><text class="line first" x="76" y="258">Samant Solutions / FastAPI</text><text class="line second" x="76" y="258">Codemia / grading worker</text><text class="line third" x="76" y="258">Gimbal / tracking demo</text></g></g>
 <path d="M673 67h34l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 67h34l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="67" r="3" fill="#ff5493"/>
 <path d="M1028 67h-34l-23 23H899" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M1028 67h-34l-23 23H899" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="1028" cy="67" r="3" fill="#ff5493"/>
 <path d="M673 93h39l23 23H804" fill="none" stroke="#24535a" stroke-width="2"/><path class="signal" d="M673 93h39l23 23H804" fill="none" stroke="#67e4cc" stroke-width="2"/><circle cx="673" cy="93" r="3" fill="#ff5493"/>

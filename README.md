@@ -18,6 +18,8 @@ I build AI-powered workflow tools for small businesses and startups. My work run
 
 ### Software
 
+![Codemia submission trace from Express through Redis and Piston to grading feedback](./codemia-trace.svg)
+
 | Build | Inside the repo |
 | --- | --- |
 | [Codemia](https://github.com/giri5hsharma/Codemia) | Instructors write test cases, students submit code, and Redis/Bull workers queue submissions for grading in five languages. The React dashboard shows correctness, runtime, and memory feedback. **National finalist and special mention at Rewind and Recode.** |
