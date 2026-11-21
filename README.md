@@ -4,33 +4,13 @@
 
 <h2><img src="./signals/stack-heading.svg" width="100%" alt="Tech stack"/></h2>
 
-<p><strong>Languages</strong><br/>
-<img src="./signals/badges/python.svg" alt="Python"/>
-<img src="./signals/badges/cpp.svg" alt="C++"/>
-<img src="./signals/badges/javascript.svg" alt="JavaScript"/>
-<img src="./signals/badges/sql.svg" alt="SQL"/>
-</p>
+<p><strong>Languages</strong>&nbsp; <img src="./signals/badges/python.svg" alt="Python"/> <img src="./signals/badges/cpp.svg" alt="C++"/> <img src="./signals/badges/javascript.svg" alt="JavaScript"/> <img src="./signals/badges/sql.svg" alt="SQL"/></p>
 
-<p><strong>Web &amp; APIs</strong><br/>
-<img src="./signals/badges/fastapi.svg" alt="FastAPI"/>
-<img src="./signals/badges/flask.svg" alt="Flask"/>
-<img src="./signals/badges/express.svg" alt="Express"/>
-<img src="./signals/badges/react.svg" alt="React"/>
-</p>
+<p><strong>Web &amp; APIs</strong>&nbsp; <img src="./signals/badges/fastapi.svg" alt="FastAPI"/> <img src="./signals/badges/flask.svg" alt="Flask"/> <img src="./signals/badges/express.svg" alt="Express"/> <img src="./signals/badges/react.svg" alt="React"/></p>
 
-<p><strong>Cloud &amp; queues</strong><br/>
-<img src="./signals/badges/azure-functions.svg" alt="Azure Functions"/>
-<img src="./signals/badges/docker.svg" alt="Docker"/>
-<img src="./signals/badges/redis.svg" alt="Redis"/>
-<img src="./signals/badges/bull.svg" alt="Bull"/>
-</p>
+<p><strong>Cloud &amp; queues</strong>&nbsp; <img src="./signals/badges/azure-functions.svg" alt="Azure Functions"/> <img src="./signals/badges/docker.svg" alt="Docker"/> <img src="./signals/badges/redis.svg" alt="Redis"/> <img src="./signals/badges/bull.svg" alt="Bull"/></p>
 
-<p><strong>Vision &amp; robotics</strong><br/>
-<img src="./signals/badges/opencv.svg" alt="OpenCV"/>
-<img src="./signals/badges/pytorch.svg" alt="PyTorch"/>
-<img src="./signals/badges/tensorflow-lite.svg" alt="TensorFlow Lite"/>
-<img src="./signals/badges/esp32.svg" alt="ESP32"/>
-</p>
+<p><strong>Vision &amp; robotics</strong>&nbsp; <img src="./signals/badges/opencv.svg" alt="OpenCV"/> <img src="./signals/badges/pytorch.svg" alt="PyTorch"/> <img src="./signals/badges/tensorflow-lite.svg" alt="TensorFlow Lite"/> <img src="./signals/badges/esp32.svg" alt="ESP32"/></p>
 
 <h2><img src="./signals/internships-heading.svg" width="100%" alt="Internships"/></h2>
 
