@@ -4,7 +4,7 @@
 
 <h2><img src="./signals/stack-heading.svg" width="100%" alt="Tech stack"/></h2>
 
-<p><strong>Languages</strong>&nbsp; <img src="./signals/badges/python.svg" alt="Python"/> <img src="./signals/badges/cpp.svg" alt="C++"/> <img src="./signals/badges/javascript.svg" alt="JavaScript"/> <img src="./signals/badges/sql.svg" alt="SQL"/></p>
+<p><strong>Languages</strong>&nbsp; <img src="./signals/badges/python.svg" alt="Python"/> <img src="./signals/badges/cpp.svg" alt="C++"/> <img src="./signals/badges/javascript.svg" alt="JavaScript"/> <img src="./signals/badges/sql.svg" alt="SQL"/> <img src="./signals/badges/bash.svg" alt="Bash"/></p>
 
 <p><strong>Web &amp; APIs</strong>&nbsp; <img src="./signals/badges/fastapi.svg" alt="FastAPI"/> <img src="./signals/badges/flask.svg" alt="Flask"/> <img src="./signals/badges/express.svg" alt="Express"/> <img src="./signals/badges/react.svg" alt="React"/></p>
 
