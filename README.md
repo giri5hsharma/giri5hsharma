@@ -54,4 +54,9 @@
 
 <img src="./signals/matrix.svg" width="100%" alt="Contribution activity from January 1 to November 20, 2026."/>
 
-[Browse my repositories ↗](https://github.com/giri5hsharma?tab=repositories)　·　[LinkedIn ↗](https://www.linkedin.com/in/giri5hsharma/)
+<p align="center">
+  <a href="https://github.com/giri5hsharma?tab=repositories"><img src="./signals/contact/repositories.svg" alt="Repositories"/></a>
+  <a href="https://www.linkedin.com/in/giri5hsharma/"><img src="./signals/contact/linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/giri5harma_/"><img src="./signals/contact/leetcode.svg" alt="LeetCode"/></a>
+  <a href="mailto:sharmagirish.grsh@gmail.com"><img src="./signals/contact/email.svg" alt="Email Girish at sharmagirish.grsh@gmail.com"/></a>
+</p>
