@@ -2,6 +2,10 @@
 
 <img src="./signals/bio.svg" width="100%" alt="I study Robotics &amp; Automation at Symbiosis Institute of Technology. I like working on systems where I can follow one thing all the way through: a submission from a student’s editor to a grade, or a camera detection to a pan-and-tilt command."/>
 
+<h2><img src="./signals/stack-heading.svg" width="100%" alt="Tech stack"/></h2>
+
+<img src="./signals/stack.svg" width="100%" alt="Languages: Python · C++ · JavaScript · SQL; Web &amp; APIs: FastAPI · Flask · Express · React; Cloud &amp; queues: Azure Functions · Docker · Redis · Bull; Vision &amp; robotics: OpenCV · PyTorch · TensorFlow Lite · ESP32"/>
+
 <h2><img src="./signals/internships-heading.svg" width="100%" alt="Internships"/></h2>
 
 <img src="./signals/main.svg" width="100%" alt="Main quest · Samant Solutions · Backend Engineer Intern · June 2026–present, remote. FastAPI services for 20+ clients, async request handlers, schema design, and API handoffs."/>
