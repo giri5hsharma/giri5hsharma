@@ -1,4 +1,4 @@
-<img src="./signals/profile.svg" width="100%" alt="Girish Sharma · Backend software + robotics"/>
+<img src="./signals/profile.svg" width="100%" alt="Girish Sharma · Backend software + robotics · Relic engram: Johnny Silverhand"/>
 
 <img src="./signals/bio.svg" width="100%" alt="I study Robotics &amp; Automation at Symbiosis Institute of Technology. I like working on systems where I can follow one thing all the way through: a submission from a student’s editor to a grade, or a camera detection to a pan-and-tilt command."/>
 
@@ -60,3 +60,5 @@
   <a href="https://leetcode.com/u/giri5harma_/"><img src="./signals/contact/leetcode.svg" alt="LeetCode"/></a>
   <a href="mailto:sharmagirish.grsh@gmail.com"><img src="./signals/contact/email.svg" alt="Email Girish at sharmagirish.grsh@gmail.com"/></a>
 </p>
+
+<p align="center"><img src="./signals/samurai-pass.svg" width="354" alt="SAMURAI backstage pass · Never Fade Away"/></p>
