@@ -1,4 +1,4 @@
-<img src="./signals/profile.svg" width="100%" alt="Girish Sharma · Backend software + robotics · Relic engram: Johnny Silverhand"/>
+<img src="./signals/profile.svg" width="100%" alt="Girish Sharma · Backend software + robotics · Animated Arasaka emblem"/>
 
 <img src="./signals/bio.svg" width="100%" alt="I study Robotics &amp; Automation at Symbiosis Institute of Technology. I like working on systems where I can follow one thing all the way through: a submission from a student’s editor to a grade, or a camera detection to a pan-and-tilt command."/>
 
